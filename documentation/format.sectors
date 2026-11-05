@@ -1,0 +1,4 @@
+start of file
+8 bytes; sector location of data
+8 bytes; sector end location of data
+repeat until end

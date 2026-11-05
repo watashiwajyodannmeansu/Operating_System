@@ -1,0 +1,8 @@
+start of sector
+8 bytes; sector location of file name sector data start
+8 bytes; sector location of file name sector data end
+8 bytes; sector location of sector data start
+8 bytes; sector location of sector data end
+16 bytes; basic permissions/info that is irrelative
+8 bytes; sector location of file info start
+8 bytes; sector location of file info end
